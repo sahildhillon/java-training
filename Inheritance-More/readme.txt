@@ -1,0 +1,1 @@
+More inheritance assignments.
